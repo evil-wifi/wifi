@@ -1,5 +1,4 @@
 # wifi
-fuckass portfolio
 luau scripter, 5 years in. i build random bs (backend preferably but front-end too)
 
 ## Projects
