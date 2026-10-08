@@ -11,4 +11,9 @@ luau scripter, 5 years in. i build random bs (backend preferably but front-end t
 luau, framework architecture
 
 ## Contact
-discord changing occasionally its either @evil.wifi , @wifi.wifi or @soblox.rex
+instagram: @gaming.chair2026
+discord:
+either 
+- @evil.wifi 
+- @wifi.wifi or
+- @soblox.rex (make a guess)
