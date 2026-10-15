@@ -12,4 +12,5 @@ luau, framework architecture
 
 ## Contact
 instagram: @gaming.chair2026
-discoed (id): 1289146317460738160
+
+discord (id): 1289146317460738160
