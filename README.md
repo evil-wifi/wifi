@@ -12,6 +12,8 @@ luau, framework architecture
 
 ## Contact
 instagram: @gaming.chair2026
+
+
 discord:
 either 
 - @evil.wifi 
