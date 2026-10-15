@@ -1,5 +1,5 @@
 # wifi
-luau scripter, 5 years in. i build random bs (backend preferably but front-end too)
+luau scripter (5 years). i make random bs (backend preferably but front-end too)
 
 ## Projects
 ### nothing
